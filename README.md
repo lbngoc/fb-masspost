@@ -11,4 +11,8 @@ It is very useful for marketing and sale.
 
 ### Download
 
-Download it from Chrome Store or [my website](http://ngoclb.com/project/fb-masspost)
+Download it from [Chrome Store](https://chrome.google.com/webstore/detail/fb-masspost/fiaeceiglkehlhoagdgofjcmogfoidpk?hl=en) or [my website](http://ngoclb.com/project/fb-masspost)
+
+### Report an issue
+
+1. [Github](https://github.com/lbngoc/fb-masspost/issues)
