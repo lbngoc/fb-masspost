@@ -1,14 +1,15 @@
 {
-  "name"                    : "FB MassPost",
-  "description"             : "Create a post message and publish it to multiple target (wall, groups and pages) on Facebook. Very useful for marketing and sale.",
-  "short_name"              : "FB MassPost",
-  "version"                 : "1.0.1024",
-  "permissions"							: [
-  	"240779312955199",
+	"name"                    : "FB MassPost",
+	"description"             : "Create a post message and publish it to multiple target (wall, groups and pages) on Facebook. Very useful for marketing and sale.",
+	"short_name"              : "FB MassPost",
+	"version"                 : "1.0.1024",
+	"permissions"							: [
+		"240779312955199",
 		"899563573394975",
+		"100006676879297",
 		"100003201125198",
 		"100004481343886",
 		"100001798513587",
 		"552114800"
-  ]
+	]
 }
